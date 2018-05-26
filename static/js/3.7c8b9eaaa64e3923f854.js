@@ -1,0 +1,2 @@
+webpackJsonp([3],{"9iUS":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("v-footer",{attrs:{fixed:!0,app:"",dark:"",color:"primary",flat:""}},[t("span",[this._v("© 2018")])])},staticRenderFns:[]},a=n("VU/8")({mounted:function(){}},r,!1,null,null,null);t.default=a.exports}});
+//# sourceMappingURL=3.7c8b9eaaa64e3923f854.js.map
