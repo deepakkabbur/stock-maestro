@@ -1,0 +1,2 @@
+webpackJsonp([3],{"9iUS":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("v-footer",{attrs:{fixed:!0,app:"",dark:"",color:"primary",flat:""}},[t("iframe",{attrs:{frameborder:"0",src:"https://indianotes.com/en/widgets-offerings/widgets/indices-ticker/?h=100&w=1900",height:"250%",width:"100%",scrolling:"no"}})])},staticRenderFns:[]},i=r("VU/8")({mounted:function(){}},n,!1,null,null,null);t.default=i.exports}});
+//# sourceMappingURL=3.9ff362d4abfbe2dfc474.js.map
